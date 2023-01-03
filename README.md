@@ -1,0 +1,2 @@
+# chenxinfeim
+Android横向滚动自动选中中间控件，底部recyclerview更着上面选中的改变
